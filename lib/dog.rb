@@ -9,5 +9,5 @@ class Dog
 def breed 
   @breed 
 end
-def breed
+def breed=(breed)
 end
